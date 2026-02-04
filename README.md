@@ -1,5 +1,34 @@
 # 💫 About Me:
-I'm a Big Data and Cloud Computing engineering student at ENSET, with a strong academic foundation in Mathematics and Computer Science (DEUG). Passionate about data, software engineering, and cybersecurity, I’ve worked on impactful academic projects that combine real-time systems, automation, and intelligent data analysis.<br><br>💡 Key Projects:<br><br>Network Intrusion Detection: Real-time JavaFX application using Pcap4J for packet capture and threat detection.<br><br>Social Media Analytics Platform (Python): Real-time data collection, sentiment analysis, dashboards, and weekly automated reports.<br><br>Full-Stack HR Management Web App: Built with Spring Boot, PostgreSQL, and Angular to track employee costs, analyze profitability, and support decision-making with interactive charts.<br><br>I’m proficient in Python, Java, JavaScript, SQL, Node.js, Shell scripting, PHP, UML, and more. I thrive on solving complex problems, designing clean systems, and contributing to secure, data-driven solutions.<br><br>✅ Rosetta Stone Certified: C1 in French | C1+ in English<br>🛡 Strong interest in cybersecurity, including ethical hacking, pentesting, MITM attacks, and social engineering techniques.<br><br>💼 Portfolio: abdelali-saadali-portfolio.netlify.app<br><br>I’m eager to join innovative environments where I can grow, collaborate, and make meaningful contributions.
+I am a Big Data & Cloud Computing Engineering Student at ENSET Mohammedia with a deep focus on the intersection of Artificial Intelligence and Cybersecurity. My expertise lies in building autonomous security systems, cloud-native monitoring architectures, and scalable data-driven applications.
+
+I don't just use tools; I build them—ranging from AI-powered CTF solvers using LangGraph to automated OSINT orchestrators in Bash.
+
+🚀 Featured Innovations
+PwnGPT (Lead Developer): An autonomous, agentic AI assistant using Google Gemini and LangGraph to solve complex CTF challenges in a secure Docker-based Kali Linux sandbox.
+
+VanguardScan: A high-performance OSINT reconnaissance suite that automates domain discovery and identifies origin IPs behind Cloudflare.
+
+Wazuh SIEM/EDR Cloud Lab: A fully-integrated security monitoring architecture deployed on AWS, providing real-time threat detection for hybrid Linux and Windows environments.
+
+ML Multi-Model Suite: Developed custom implementations of K-Means, SVM, and KNN from scratch to analyze CNSS employment patterns and predict IT market salaries.
+
+🛠️ Technical Arsenal
+Cloud & DevOps: AWS (Cloud Architecting/Security), Docker, Supabase, Linux SysAdmin.
+
+Cybersecurity: SIEM/EDR (Wazuh), OSINT, Penetration Testing, Malware Analysis, Reverse Engineering.
+
+AI/ML & Data: LangChain/LangGraph, LLM Orchestration, Scikit-learn, PostgreSQL, Big Data Analytics.
+
+Languages: Python (Expert), Java, JavaScript (Node.js/React), Bash Scripting, PHP.
+
+🌍 Languages & Communication
+English: C2 Proficient (EF SET) | C1+ (Rosetta Stone)
+
+French: C1 Proficient (Rosetta Stone)
+
+Arabic: Native
+
+💼 Portfolio: abdelali-saadali-portfolio.netlify.app<br><br>I’m eager to join innovative environments where I can grow, collaborate, and make meaningful contributions.
 
 
 ## 🌐 Socials:
